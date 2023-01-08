@@ -1,5 +1,4 @@
-## KIA ORA
-
+##
 Welcome to my page!
 I'm Jack Zheng, from New Zealand, currently at Monash University, studying Computer Science (data science) & Science(Mathematical Statistics), 
 
